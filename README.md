@@ -1,4 +1,4 @@
 # max_displacement_challenge
 ```Bash
-$ node max_displacement test_cases.txt
+$ node max_displacement.js test_cases.txt
 ```
